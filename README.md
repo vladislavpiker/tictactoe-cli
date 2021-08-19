@@ -1,4 +1,4 @@
-# TIcTacTOe (CLI version)
+# TIcTacToe (CLI version)
 This is my Tic-Tac-Toe game written on Python3 with CLI
 
 ## Run
